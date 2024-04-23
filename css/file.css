@@ -1,0 +1,50 @@
+footer {
+  text-align: center;
+  color: white;
+  background-color: #343a40;
+}
+
+/* Punto 1 */
+
+.title-ppl {
+  text-align: center;
+  color: #007bff;
+}
+
+.img-size-ppl {
+  display: block;
+  margin: auto;
+}
+
+.margin-card {
+  margin: 5px;
+}
+
+/* Punto 2 */
+.color-card {
+  color: white;
+  background-color: #191dd8;
+}
+
+.color-card-content {
+  color: white;
+}
+
+.borde-table {
+  border-bottom: solid 1px;
+}
+
+/* Punto 3 */
+
+.caja-signo {
+  padding-left: 10px;
+}
+
+.text-signo {
+  text-align: center;
+}
+
+/* Punto 4 */
+.table-row {
+  margin: 0px;
+}
